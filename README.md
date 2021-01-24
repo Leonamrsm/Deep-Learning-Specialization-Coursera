@@ -17,10 +17,10 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 ## Course - 1
-### Neural Networks and Deep Learning - [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) - [GitHub](https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera/tree/master/Course_1-Neural_Networks_and_Deep_Learning) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/DD9BEFKMBQVD)
+### Neural Networks and Deep Learning -
 
 #### Table of Contents
-* [Week 1](https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera/tree/master/Course_1-Neural_Networks_and_Deep_Learning/Week-1)
+* Week 1
     * Lesson Topic: About Neural Network(NN), Supervised Learning, Deep Learning
     * Quiz: Deep Learning
 * [Week 2](https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera/tree/master/Course_1-Neural_Networks_and_Deep_Learning/Week-2)
