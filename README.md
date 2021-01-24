@@ -15,6 +15,8 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 ### Resources
 - Google Brain Residency
 
+[Certificate](https://www.coursera.org/account/accomplishments/specialization/QYTQZK3LUZ3H)
+
 
 ## Course - 1
 ### Neural Networks and Deep Learning -
@@ -39,7 +41,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 ## Course - 2
-### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - [Coursera](https://www.coursera.org/learn/deep-neural-network) - [GitHub](https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera/tree/master/Course_2-Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_and_Optimization)
+### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - [Coursera](https://www.coursera.org/learn/deep-neural-network)
 
 #### Table of Contents
 * Week 1
