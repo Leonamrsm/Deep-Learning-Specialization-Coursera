@@ -15,7 +15,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 ### Resources
 - Google Brain Residency
 
-[Certificate](https://www.coursera.org/account/accomplishments/specialization/QYTQZK3LUZ3H)
+[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QYTQZK3LUZ3H)
 
 
 ## Course - 1
